@@ -1,74 +1,75 @@
-# E-Reputation Enhancer Mobile App
+# 🚀 E-Reputation Enhancer Mobile App
 
-A cross-platform Flutter mobile application designed to enhance corporate e-reputation through semantic enrichment and intelligent re-ranking of digital content.
+A cross-platform **Flutter** mobile application designed to enhance **corporate e-reputation** through semantic enrichment and intelligent re-ranking of digital content using **AI & NLP techniques**.
+
+---
 
 ## 📱 Overview
 
-This application helps companies improve their online reputation by enriching and optimizing their digital content (articles, posts, product descriptions, etc.) through semantic and intelligent processing powered by AI and NLP techniques.
+**E-Reputation Enhancer** helps organizations improve their online visibility and brand perception by analyzing, enriching, and ranking digital content such as articles, blog posts, product descriptions, and press releases.
 
-📸 Below are real screenshots from the application showcasing the main user interfaces and features.
-
----
-
-## 📸 App Screenshots
-
-### 🟦 Welcome & Entry Screens
-<p align="center">
-  <img src="assets/screenshots/welcompage1.png" width="45%" />
-  <img src="assets/screenshots/welcompage2.png" width="45%" />
-</p>
-
-### 🧭 Dashboard & Features Overview
-<p align="center">
-  <img src="assets/screenshots/dashboard.png" width="45%" />
-  <img src="assets/screenshots/features1.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/features2.png" width="45%" />
-  <img src="assets/screenshots/apiinfo.png" width="45%" />
-</p>
-
-### ✍️ Content Enhancement Flow
-<p align="center">
-  <img src="assets/screenshots/enhacecontent1.png" width="45%" />
-  <img src="assets/screenshots/enhencecontent2.png" width="45%" />
-</p>
+The application focuses on **semantic quality, SEO optimization, and content impact**, providing actionable insights through a modern and intuitive mobile interface.
 
 ---
 
-## ✨ Features
+## 🎨 App Preview
 
-### 1. **Content Input**
-- **Text Input**: Directly type or paste content into the app
-- **File Upload**: Upload documents (TXT, DOC, DOCX, PDF)
-- **Content Type Selection**: Categorize content as articles, blog posts, product descriptions, press releases, etc.
+<p align="center">
+  <img src="assets/screenshots/welcompage1.png" width="30%" />
+  <img src="assets/screenshots/welcompage2.png" width="30%" />
+  <img src="assets/screenshots/dashboard.png" width="30%" />
+</p>
 
-### 2. **Semantic Enrichment**
-- Advanced NLP processing to enhance content meaning and relevance
-- Automatic keyword extraction and expansion
-- SEO score calculation and analysis
-- Comparison view (original vs. enriched content)
-- Optimization suggestions
+<p align="center">
+  <img src="assets/screenshots/features1.png" width="30%" />
+  <img src="assets/screenshots/features2.png" width="30%" />
+  <img src="assets/screenshots/apiinfo.png" width="30%" />
+</p>
 
-### 3. **Intelligent Re-Ranking**
-- Multi-criteria ranking system:
-  - **Relevance Score**: Content relevance to target audience
-  - **Impact Score**: Potential marketing and business impact
-  - **SEO Score**: Search engine optimization effectiveness
-  - **Overall Score**: Composite ranking metric
+<p align="center">
+  <img src="assets/screenshots/enhacecontent1.png" width="30%" />
+  <img src="assets/screenshots/enhencecontent2.png" width="30%" />
+</p>
+
+<p align="center">
+  <i>Real application screenshots demonstrating the full content enhancement workflow.</i>
+</p>
+
+---
+
+## ✨ Core Features
+
+### 📝 Content Input
+- Manual text input or file upload (TXT, DOC, DOCX, PDF)
+- Content categorization (articles, blogs, products, press releases)
+- Clean and guided input experience
+
+### 🧠 Semantic Enrichment
+- AI-powered semantic enhancement
+- Automatic keyword extraction & expansion
+- SEO scoring and optimization suggestions
+- Side-by-side comparison (original vs enriched)
+
+### 📊 Intelligent Re-Ranking
+- Multi-criteria scoring system:
+  - Relevance Score
+  - SEO Score
+  - Business Impact Score
+  - Overall Composite Score
 - Dynamic sorting and filtering
-- Tag-based categorization
-- Detailed analytics and insights
+- Insightful analytics per content item
 
-### 4. **User Experience**
-- Modern, professional UI with Material 3 design
+### 🎯 User Experience
+- Material 3 design system
 - Smooth animations and transitions
-- Responsive layouts for all screen sizes
-- Export functionality for reports
-- Copy-to-clipboard features
+- Responsive layout for all devices
+- Export and copy-to-clipboard tools
 
 ---
+
+## 🏗️ System Architecture
+
+### Project Structure
 
 ## 🏗️ Architecture
 lib/
