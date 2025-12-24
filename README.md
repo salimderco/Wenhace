@@ -69,8 +69,6 @@ The application focuses on **semantic quality, SEO optimization, and content imp
 
 ## 🏗️ System Architecture
 
-### Project Structure
-
 ## 🏗️ Architecture
 lib/
 ├── main.dart # App entry point
