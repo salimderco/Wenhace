@@ -112,5 +112,4 @@ dependencies:
   flutter_markdown: ^0.7.4+1
   intl: ^0.19.0
 
-### Project Structure
 
